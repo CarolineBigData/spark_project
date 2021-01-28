@@ -8,11 +8,4 @@
 
 3. perform spark transformations and write the cleaned data to cos bucket.
 
-Technology Stack:
-
-Apache Spark 
-Scala 
-Cloud Object Storage (COS)
-IntelliJ
-Stocator
-DB2 on Cloud 
+Technology Stack: Apache Spark, Scala, Cloud Object Storage (COS), Stocator, DB2 on Cloud 
