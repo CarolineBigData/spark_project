@@ -1,0 +1,5 @@
+Name,Gender,Department,Salary,Loc,Rating
+John,Male,Sales,$100,Bellevue,Very Good
+Dan,Female,Engineering,$100,Bellevue,Good
+Mike,Female,,$10,Wellington,Not Rated
+Mary,Male,Engineering,$10,Bronx,Good

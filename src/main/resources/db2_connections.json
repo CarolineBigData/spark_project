@@ -1,0 +1,13 @@
+{
+  "header": {
+    "created_by": "Caroline",
+    "created_date": "20210126"
+  },
+  "body": {
+    "db2DriverClass": "com.ibm.db2.jcc.DB2Driver",
+    "usr": "vzh47955",
+    "pwd": "z2pt9-2w79b7lch0",
+    "url": "jdbc:db2://dashdb-txn-sbox-yp-dal09-08.services.dal.bluemix.net:50000/BLUDB",
+    "dbtable": "vzh47955.emptable"
+    }
+  }
